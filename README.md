@@ -1,7 +1,7 @@
 ># Loki - Codelândia - Challenge 6
 
 
-### 🎨 Designed by Iuri Silva - Codelândia 🎨
+### 🎨 Designed by [Iuri Silva](https://www.linkedin.com/in/iuricode/) - Codelândia 🎨
 
 
 ## Technologies
