@@ -7,6 +7,7 @@
 ## Technologies
 + HTML
 + CSS
++ Responsive Layout
 
 ## Observations
 + The responsive layout was added
