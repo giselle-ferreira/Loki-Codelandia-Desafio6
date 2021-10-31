@@ -1,4 +1,4 @@
-># Loki - Codelândia - Challenge 6
+># Loki Landing Page - Codelândia - Challenge 6
 
 
 ### 🎨 Designed by [Iuri Silva](https://www.linkedin.com/in/iuricode/) - Codelândia 🎨
