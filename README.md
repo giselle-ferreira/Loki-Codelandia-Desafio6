@@ -4,12 +4,18 @@
 ### 🎨 Designed by [Iuri Silva](https://www.linkedin.com/in/iuricode/) - Codelândia 🎨
 
 
-## Technologies
+## Technologies 🧰
 + HTML
 + CSS
 + Responsive Layout
 
-## Observations
-+ The responsive layout was added
+<br>
+
+## Website 💻
+[Loki Landing Page](https://loki-desafio6-codelandia.netlify.app/)
+
+<br>
+
+## Layout 🎨
 
 <img src="https://i.postimg.cc/9Q8XWrK8/Desafio6-Codelandia.gif" />
